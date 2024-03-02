@@ -1,0 +1,4 @@
+class object { 
+System.out.println("hello world")
+}
+
