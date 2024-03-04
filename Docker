@@ -1,0 +1,9 @@
+docker container ls
+docker ps 
+docker container ps
+The above 3 commands are used for displaying the runnng containers
+
+docker container ls -a
+docker ps -a
+docker container ps -a 
+The above 3 commands are used for displaying the runnng and stopped or exited containers
