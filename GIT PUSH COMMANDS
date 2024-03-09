@@ -1,0 +1,8 @@
+git config --global user.name "Haseeb1490"
+  931  git config --global user.email "mhaseebahmed@outlook.com"
+  932  git push -u origin main
+  
+  934  git pull https://github.com/Haseeb1490/my2nd_repo.git
+  935  ls
+  937  git push -u origin main
+  938  git history
