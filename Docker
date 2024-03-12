@@ -9,3 +9,42 @@ docker container ps -a
 The above 3 commands are used for displaying the runnng and stopped or exitd containers
 docker exec -it mubuntu7866 /bin/bash -- To access the exsisting and running conatainer
 Command to build my own image $ docker build -t ubuntu1 .
+
+
+ 1112  docker build -t haseeb1490/haseeb1/ubuntu2
+ 1113  docker build -t haseeb1490/haseeb1/ubuntu2 .
+ 1114  docker images
+ 1115  docker push haseeb1490/haseeb1/ubuntu2
+ 1116  docker push ('haseeb1490/haseeb1')/ubuntu2
+ 1117  docker push haseeb1490/haseeb1/ubuntu2
+ 1118  docker push haseeb1490/haseeb1:tagname
+ 1119  docker push haseeb1490/haseeb1:haass
+ 1120  docker images
+ 1121  docker push haseeb1/haseeb1490/haseeb1/ubuntu2
+ 1122  docker login -u "haseeb1490" -p "NewPhase2024" docker.io
+ 1123  docker push haseeb1490/haseeb1/haseeb1490/haseeb1/ubuntu2:0.0.1\n
+ 1124  docker push haseeb1490/haseeb1/haseeb1490/haseeb1/ubuntu2\n
+ 1125  docker push haseeb1490/haseeb1490/haseeb1/ubuntu2\n
+ 1126  docker logout
+ 1127  docker build -t ubuntu3 .
+ 1128  docker login
+ 1129  docker tag ubuntu3 haseeb1490/haseeb1:ubuntu3
+ 1130  docker push haseeb1490/haseeb1:ubuntu3
+ 1131  docker images
+ 1132  docker pull ubuntu3
+ 1133  docker login
+ 1134  docker pull ubuntu3
+ 1135  docker pull haseeb1490/haseeb1
+ 1136  git version
+ 1137  docker images
+ 1138  docker rmi tomcat
+ 1139  docker rmi -f tomcat
+ 1140  docker rmi -f ubuntu1
+ 1141  docker images
+ 1142  docker container ls 0a
+ 1143  docker container ls -a
+ 1144  docker restart myubuntu123
+ 1145  docker container ls -a
+ 1146  docker container ls
+ 1147  docker restart myubuntu123
+ 1148  docker start 1772735e52c2
