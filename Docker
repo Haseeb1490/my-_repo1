@@ -8,3 +8,4 @@ docker ps -a
 docker container ps -a 
 The above 3 commands are used for displaying the runnng and stopped or exitd containers
 docker exec -it mubuntu7866 /bin/bash -- To access the exsisting and running conatainer
+Command to build my own image $ docker build -t ubuntu1 .
